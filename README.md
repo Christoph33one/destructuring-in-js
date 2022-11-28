@@ -1,4 +1,4 @@
-# The Spread Operator
+# Destructing arrays in advanced JS
 
 To use this repository:
 - Click the "Use this template" button in the upper right
